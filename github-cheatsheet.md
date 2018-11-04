@@ -7,7 +7,7 @@
         4.1 **git add .** <br>
         4.2 **git commit -m"very descriptive message goes here"** <br>
         4.3 **git push origin master**
-6. Now if you go to your GitHub you will see all the changes you made and just pushed. Now do PULL REQUEST so everyone in the team can see what you did and the TA can check your code. Go on "PULL REQUESTS" and click on "NEW PULL REQUEST". 
+6. Now if you go to your GitHub you will see all the changes you made and just pushed. Now make PULL REQUEST so everyone in the team can see what you did and the TA can check your code. Go on "PULL REQUESTS" and click on "NEW PULL REQUEST". 
 7. When submitting use this format: <br>
         a) individual assessment: **[PTMIA1018] yourName** <br>
         b) pair-programming assessment: **[PTMIA1018] yourName-yourPartnersName**
