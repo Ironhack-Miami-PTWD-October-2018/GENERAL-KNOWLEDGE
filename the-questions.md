@@ -14,7 +14,11 @@
 13. Explain the DOM (Ancestor, Descendant, Sibling, Parent, Child) - (Ancestor, Descendant, Sibling, Parent, Child => explained: https://sebastian.expert/ancestor-descendant-sibling-parent-child-explained/;The child combinator (>) => https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors; The descendant combinator - represented with empty space (https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors);
 14. CSS Animations (https://www.w3schools.com/cssref/css3_pr_animation.asp;  https://css-tricks.com/starting-css-animations-mid-way/)
 15. map vs. forEach (https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
-16. 
+16. Explain .reduce()
+17. Explain .sort()
+18. Explain .filter()
+
+
 
 
 
