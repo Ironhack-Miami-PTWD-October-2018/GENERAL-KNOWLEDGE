@@ -17,6 +17,7 @@
 16. Explain .reduce()
 17. Explain .sort()
 18. Explain .filter()
+19. All you have to know about ES6 (http://exploringjs.com/es6/) 
 
 
 
