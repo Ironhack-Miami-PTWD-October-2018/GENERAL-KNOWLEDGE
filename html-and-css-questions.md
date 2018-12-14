@@ -1,0 +1,3 @@
+- What is box model and how we find it useful?
+- What kind of positioning you know and give example where you would apply them?
+- When do you use "float" and what are some of the specifics of using this way of positioning?
