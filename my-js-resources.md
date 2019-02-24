@@ -1,7 +1,6 @@
 ## JS/ES6
 - [All you have to know about ES6](http://exploringjs.com/es6/) 
 - [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)
-
 - [JavaScript functions](https://developer.mozilla.org/en-US/docs/Glossary/Function)
 - [JavaScript function arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 - [What the heck is a callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
@@ -38,7 +37,50 @@
 
 ## Clean Code
 - [**JavaScript style guide** aka **The Clean Code**](https://google.github.io/styleguide/jsguide.html)
+- [Google's style guide for writing a clean code](https://google.github.io/styleguide/htmlCSSguide.html/)
 - [JavaScript linter](https://eslint.org/docs/user-guide/getting-started)
+
+## Styling
+
+### Responsive Design
+- [Flexbox complete guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+- [Flexbox online generator](http://the-echoplex.net/flexyboxes/)
+- [Responsive Design](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [Mobile First approach](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)
+- [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- [Media query sizes (Device Breakpoints)](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/)
+
+### CSS frameworks
+- [Using SVG image format](https://css-tricks.com/using-svg/)
+- [Bulma - CSS framework](https://bulma.io/)
+- [Foundation - CSS framework](https://foundation.zurb.com/)
+- [UIKIT - CSS Framework](https://getuikit.com/)
+- [Semantic - CSS Framework](https://semantic-ui.com/)
+
+### DOM Tree and Positioning
+- [Pseudo selectors (hover, after, before,...)](https://css-tricks.com/tag/pseudo-elements/)
+- [Emmet ex: ul>li*5](https://docs.emmet.io/cheat-sheet/)
+- [The mystery of DOM element hierarchy - Ancestor, Descendant, Sibling, Parent, Child](https://sebastian.expert/ancestor-descendant-sibling-parent-child-explained/)
+- [The child combinator (>)](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors)
+- [The descendant combinator - represented with empty space](https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors)
+
+### Animations
+- [CSS Animations 1](https://www.w3schools.com/cssref/css3_pr_animation.asp) 
+- [CSS Animations 2](https://css-tricks.com/starting-css-animations-mid-way/)
+- [CSS animation generator](http://animista.net/)
+
+### Other
+- [Box Shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
+- [Box Shadow Generator](https://www.cssmatic.com/box-shadow)
+- [Text Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp) 
+- [CSS Layout](floats) (https://www.w3schools.com/css/css_float.asp)
+- [CSS overflow property](https://css-tricks.com/almanac/properties/o/overflow/)
+- [Centering Images](https://css-tricks.com/centering-css-complete-guide/)
+- [CSS Position sticky](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
+- [How to use icons "FontAwesome"](https://fontawesome.com/start)
+- [rem vs em](https://j.eremy.net/confused-about-rem-and-em/)
+
 
 
 
