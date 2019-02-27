@@ -52,7 +52,6 @@
 - [Media query sizes (Device Breakpoints)](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/)
 
 ### CSS frameworks
-- [Using SVG image format](https://css-tricks.com/using-svg/)
 - [Bulma - CSS framework](https://bulma.io/)
 - [Foundation - CSS framework](https://foundation.zurb.com/)
 - [UIKIT - CSS Framework](https://getuikit.com/)
@@ -80,6 +79,7 @@
 - [CSS Position sticky](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
 - [How to use icons "FontAwesome"](https://fontawesome.com/start)
 - [rem vs em](https://j.eremy.net/confused-about-rem-and-em/)
+- [Using SVG image format](https://css-tricks.com/using-svg/)
 
 
 
