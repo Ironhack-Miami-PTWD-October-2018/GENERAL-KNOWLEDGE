@@ -57,6 +57,9 @@
 - [Foundation - CSS framework](https://foundation.zurb.com/)
 - [UIKIT - CSS Framework](https://getuikit.com/)
 - [Semantic - CSS Framework](https://semantic-ui.com/)
+- [The Most Complete UI Framework for REACT](https://www.primefaces.org/primereact/#/)
+- [Create Bootstrap 4 themes](https://bootstrap.build/)
+
 
 ### DOM Tree and Positioning
 - [Pseudo selectors (hover, after, before,...)](https://css-tricks.com/tag/pseudo-elements/)
@@ -90,8 +93,6 @@
 - [Find the right developer tools](https://stackshare.io/)
 - [What's needed on the market](https://2018.stateofjs.com/)
 - [Public APIs](https://public-apis.xyz/)
-- [Create Bootstrap 4 themes](https://bootstrap.build/)
-- [The Most Complete UI Framework for REACT](https://www.primefaces.org/primereact/#/)
 - [Google IO](https://codelabs.developers.google.com/io2018/)
 
 
