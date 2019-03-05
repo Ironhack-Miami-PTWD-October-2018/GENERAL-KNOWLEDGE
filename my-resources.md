@@ -28,6 +28,7 @@
 ## RegEx
 - [Regular Expression](https://www.rexegg.com/regex-quickstart.html)
 - [REGEX generator](https://regexr.com/)
+- [https://regex101.com/](https://regex101.com/)
 
 ## Git-GitHub-Version Control
 - [Git-best practices](https://sethrobertson.github.io/GitBestPractices/)
@@ -77,9 +78,22 @@
 - [CSS overflow property](https://css-tricks.com/almanac/properties/o/overflow/)
 - [Centering Images](https://css-tricks.com/centering-css-complete-guide/)
 - [CSS Position sticky](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
-- [How to use icons "FontAwesome"](https://fontawesome.com/start)
 - [rem vs em](https://j.eremy.net/confused-about-rem-and-em/)
 - [Using SVG image format](https://css-tricks.com/using-svg/)
+- [Learn MongoDB on Mongo University](https://university.mongodb.com/)
+
+
+### Tools
+- [Photopea - Free online image editor](https://www.photopea.com/)
+- [How to use icons "FontAwesome"](https://fontawesome.com/start)
+- [Remove Image Background for free](https://www.remove.bg/)
+- [Find the right developer tools](https://stackshare.io/)
+- [What's needed on the market](https://2018.stateofjs.com/)
+- [Public APIs](https://public-apis.xyz/)
+- [Create Bootstrap 4 themes](https://bootstrap.build/)
+- [The Most Complete UI Framework for REACT](https://www.primefaces.org/primereact/#/)
+- [Google IO](https://codelabs.developers.google.com/io2018/)
+
 
 
 
