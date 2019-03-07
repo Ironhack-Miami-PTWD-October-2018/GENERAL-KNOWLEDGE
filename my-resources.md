@@ -75,6 +75,7 @@
 - [CSS animation generator](http://animista.net/)
 
 ### Other
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Box Shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 - [Box Shadow Generator](https://www.cssmatic.com/box-shadow)
 - [Text Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp) 
