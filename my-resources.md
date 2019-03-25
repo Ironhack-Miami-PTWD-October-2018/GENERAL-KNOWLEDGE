@@ -26,6 +26,10 @@
 ## OOP
 - [OOP In JavaScript: What You NEED to Know](https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 
+## React cheat sheet
+- [React Summary](https://github.com/ironhack-dev-squad-108/react-summary)
+
+
 ## RegEx
 - [Regular Expression](https://www.rexegg.com/regex-quickstart.html)
 - [REGEX generator](https://regexr.com/)
