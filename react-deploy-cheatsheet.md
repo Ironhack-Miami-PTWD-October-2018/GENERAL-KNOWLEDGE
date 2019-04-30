@@ -150,4 +150,4 @@ If everything was built and bundled successfully, you can now run:
 $ heroku open
 ```
 
-**Congrats developers and good luck in your future conquers**. :rocket: :heart:
+**With** :heart: **from Ironhack** :rocket: 
