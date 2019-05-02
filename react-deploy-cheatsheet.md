@@ -36,7 +36,7 @@ axios.get(`${process.env.REACT_APP_API_URL}/some-route`, {withCredentials: true}
 
 ```
 
-### 2.4 In *.env.development* and *.env.production* we shpuld store important data for these two stages so they can become interchangeable depending if we are in development or production mode. We have to **update package.json on the client side**:
+### 2.4 In *.env.development* and *.env.production* we should store important data for these two stages so they can become interchangeable depending if we are in development or production mode. We have to **update package.json on the client side**:
 
 ```javascript
 // ...
@@ -53,7 +53,7 @@ axios.get(`${process.env.REACT_APP_API_URL}/some-route`, {withCredentials: true}
 
 ## 3. Bundle the React App
 
-### 3.1 When inside client side folder, on the root level, run the following command:
+### 3.1 When inside client-side folder, on the root level, run the following command:
 
 ```bash
 $ npm run build
@@ -99,8 +99,8 @@ We are done with the client side.
  ------
  expected output:
  
-origin	https://github.com/yourusername/app-name-server.git (fetch)
-origin	https://github.com/yourusername/app-name-server.git (push)
+origin    https://github.com/yourusername/app-name-server.git (fetch)
+origin    https://github.com/yourusername/app-name-server.git (push)
  ```
 ## 5. Connect this repository to Heroku
 - To make connection, run the following command:
@@ -115,10 +115,10 @@ $ heroku git:remote -a name-of-your-heroku-app
  ------
  expected output:
  
-heroku	https://git.heroku.com/name-of-your-heroku-app.git (fetch)
-heroku	https://git.heroku.com/name-of-your-heroku-app.git (push)
-origin	https://github.com/yourusername/app-name-server.git (fetch)
-origin	https://github.com/yourusername/app-name-server.git (push)
+heroku    https://git.heroku.com/name-of-your-heroku-app.git (fetch)
+heroku    https://git.heroku.com/name-of-your-heroku-app.git (push)
+origin    https://github.com/yourusername/app-name-server.git (fetch)
+origin    https://github.com/yourusername/app-name-server.git (push)
 ```
 
 ## 6. MLab configuration
@@ -138,7 +138,7 @@ $ heroku config:get MONGODB_URI
 ## 7. Deploy
 **We are deploying server side of the full-stack app because we bundled our client app and pasted the bundle (plenty of minified files) into the /public folder**.
 
-Inside server-side app, run the following commands:
+Inside the server-side app, run the following commands:
 ```bash
 $ git add .
 $ git commit -m"initial commit to heroku"
