@@ -26,7 +26,7 @@ $ touch .env.development .env.production
 REACT_APP_API_URL=http://localhost:3001/api
 
 // .env.production
-REACT_APP_API_URL = https://name-of-your-app.herokuapp.com
+REACT_APP_API_URL = https://name-of-your-app.herokuapp.com/api
 ```
 
 ### 2.3 In your components and find all the *axios* calls and update them following this example:
