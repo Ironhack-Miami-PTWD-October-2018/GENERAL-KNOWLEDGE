@@ -90,7 +90,6 @@
 - [CSS animation generator](http://animista.net/)
 
 ### Other
-- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Box Shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 - [Box Shadow Generator](https://www.cssmatic.com/box-shadow)
 - [Text Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp) 
@@ -111,3 +110,18 @@
 - [What's needed on the market](https://2018.stateofjs.com/)
 - [Public APIs](https://public-apis.xyz/)
 - [Google IO](https://codelabs.developers.google.com/io2018/)
+
+## Interview Prep
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
+- [JS - test: beginner](https://thatjsdude.com/interview/js1.html)
+- [JS test: intermediate](https://thatjsdude.com/interview/js2.html)
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [https://interviewing.io/](https://interviewing.io/)
+- [Pramp](https://www.pramp.com/#/)
+
+## Katas
+- [CodeWars](https://www.codewars.com/)
+- [CodinGame](https://www.codingame.com/start)
+- [CodeSignal](https://codesignal.com/) 
+- [HackerRank](https://www.hackerrank.com/)
