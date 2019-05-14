@@ -72,6 +72,7 @@
 - [Semantic - CSS Framework](https://semantic-ui.com/)
 - [The Most Complete UI Framework for REACT](https://www.primefaces.org/primereact/#/)
 - [Create Bootstrap 4 themes](https://bootstrap.build/)
+- [CSS Modules](https://glenmaddern.com/articles/css-modules)
 
 
 ### DOM Tree and Positioning
@@ -108,9 +109,3 @@
 - [What's needed on the market](https://2018.stateofjs.com/)
 - [Public APIs](https://public-apis.xyz/)
 - [Google IO](https://codelabs.developers.google.com/io2018/)
-
-
-
-
-
-
