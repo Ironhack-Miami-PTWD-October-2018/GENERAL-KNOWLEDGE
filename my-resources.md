@@ -9,7 +9,7 @@
 
 ## Data Structures
 - [Data Types in JS](https://codeburst.io/javascript-data-types-explained-347555cd2d4d)
-- [Algorythms & Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [Algorithms & Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Mutable and Immutable Data Structures](https://benmccormick.org/2016/06/04/what-are-mutable-and-immutable-data-structures-2)
