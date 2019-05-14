@@ -34,6 +34,7 @@
 
 ## React cheat sheet
 - [React Summary](https://github.com/ironhack-dev-squad-108/react-summary)
+- [ReactJS Examples](https://reactjsexample.com/)
 
 
 ## RegEx
@@ -65,6 +66,7 @@
 
 ### CSS frameworks
 - [Bulma - CSS framework](https://bulma.io/)
+- [Bulma - crash course - video](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 - [Foundation - CSS framework](https://foundation.zurb.com/)
 - [UIKIT - CSS Framework](https://getuikit.com/)
 - [Semantic - CSS Framework](https://semantic-ui.com/)
