@@ -9,6 +9,7 @@
 
 ## Data Structures
 - [Data Types in JS](https://codeburst.io/javascript-data-types-explained-347555cd2d4d)
+- [Algorythms & Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Mutable and Immutable Data Structures](https://benmccormick.org/2016/06/04/what-are-mutable-and-immutable-data-structures-2)
@@ -28,6 +29,8 @@
 - [JS Classes - under the hood](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
 - [“Super” and “Extends” In JavaScript ES6 - Understanding The Tough Parts](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420)
 
+## PassportJS
+- [PassportJS — The Confusing Parts Explained](https://hackernoon.com/passportjs-the-confusing-parts-explained-edca874ebead)
 
 ## React cheat sheet
 - [React Summary](https://github.com/ironhack-dev-squad-108/react-summary)
