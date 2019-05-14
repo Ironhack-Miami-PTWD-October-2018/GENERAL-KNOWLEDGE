@@ -35,6 +35,8 @@
 ## React cheat sheet
 - [React Summary](https://github.com/ironhack-dev-squad-108/react-summary)
 - [ReactJS Examples](https://reactjsexample.com/)
+- [React Router v4: [match, location, history] — your best friends!](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
+- [React Router in 20 minutes](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-a957c6a5aa18)
 
 
 ## RegEx
