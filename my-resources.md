@@ -33,6 +33,7 @@
 - [PassportJS — The Confusing Parts Explained](https://hackernoon.com/passportjs-the-confusing-parts-explained-edca874ebead)
 
 ## React cheat sheet
+- [The most common beginner problems when starting with React](http://www.js-craft.io/blog/14-The-7-Most-Common-Mistakes-that-React-Developers-Make/)
 - [React Summary](https://github.com/ironhack-dev-squad-108/react-summary)
 - [ReactJS Examples](https://reactjsexample.com/)
 - [React Router v4: [match, location, history] — your best friends!](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
