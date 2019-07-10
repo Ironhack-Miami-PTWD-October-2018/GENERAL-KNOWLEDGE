@@ -48,6 +48,7 @@
 
 ## Git-GitHub-Version Control
 - [Git-best practices](https://sethrobertson.github.io/GitBestPractices/)
+- [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 - [Git and branching](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Merge vs. Rebase: What’s the Diff?](https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333)
 - [Semantic Commit Messages when pushing to GitHub](https://seesparkbox.com/foundry/semantic_commit_messages)
